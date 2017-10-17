@@ -1,0 +1,31 @@
+{
+  "name": "async_await",
+  "version": "1.0.0",
+  "description": "A sample to demonstrate asyn await capabilities in TS/JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avilavate/async_await_TS.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "Javascript",
+    "Typescript"
+  ],
+  "author": "Avil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avilavate/async_await_TS/issues"
+  },
+  "homepage": "https://github.com/avilavate/async_await_TS#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.2.14"
+  }
+}
